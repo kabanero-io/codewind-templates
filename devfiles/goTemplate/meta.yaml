@@ -1,0 +1,7 @@
+displayName: Go template
+description: Sample microservice for simple go app
+tags: ["go", "docker"]
+globalMemoryLimit: 2674Mi
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+projectType: "docker"
+language: "go"

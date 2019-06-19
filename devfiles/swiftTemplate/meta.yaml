@@ -1,0 +1,6 @@
+displayName: Swift microcservice template
+description: Template for building a Swift microservice
+tags: ["swift"]
+globalMemoryLimit: 2674Mi
+projectType: "swift"
+language: "swift"

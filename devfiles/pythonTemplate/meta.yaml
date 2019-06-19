@@ -1,0 +1,7 @@
+displayName: Python template
+description: HelloWorld microservice written in python
+tags: ["python", "docker"]
+globalMemoryLimit: 2674Mi
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+projectType: "docker"
+language: "python"

@@ -1,0 +1,15 @@
+---
+specVersion: 0.0.1
+name: nodeExpressTemplate
+projects:
+  - source:
+    type: git
+    language: nodejs
+    location: "https://github.com/microclimate-dev2ops/nodeExpressTemplate"
+components:
+  - alias: codewind-plugin
+    type: chePlugin
+    id: <server>/plugins/codewind/codewind-plugin/0.0.1
+  - alias: codewind-theia
+    type: chePlugin
+    id: <server>/plugins/codewind/codewind-theia/0.0.1

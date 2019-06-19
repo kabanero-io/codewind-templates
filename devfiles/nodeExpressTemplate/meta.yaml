@@ -1,0 +1,7 @@
+displayName: Node.js template
+description: Cloud-ready Node.js Express sample application
+tags: ["Nodejs"]
+globalMemoryLimit: 2674Mi
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+projectType: "nodejs"
+language: "nodejs"

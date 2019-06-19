@@ -1,0 +1,14 @@
+---
+specVersion: 0.0.1
+name: jgoTemplate
+projects:
+  - source:
+    type: git
+    location: "https://github.com/microclimate-dev2ops/microclimateGoTemplate"
+components:
+  - alias: codewind-plugin
+    type: chePlugin
+    id: <server>/plugins/codewind/codewind-plugin/0.0.1
+  - alias: codewind-theia
+    type: chePlugin
+    id: <server>/plugins/codewind/codewind-theia/0.0.1
