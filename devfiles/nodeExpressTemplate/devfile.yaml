@@ -6,7 +6,6 @@ projects:
   - name: nodeproject
     source:
       type: git
-      language: nodejs
       location: "https://github.com/microclimate-dev2ops/nodeExpressTemplate"
 components:
   - alias: codewind-sidecar
