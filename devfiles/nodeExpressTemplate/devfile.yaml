@@ -4,9 +4,9 @@ metadata:
   name: nodeExpressTemplate
 projects:
   - source:
-    type: git
-    language: nodejs
-    location: "https://github.com/microclimate-dev2ops/nodeExpressTemplate"
+      type: git
+      language: nodejs
+      location: "https://github.com/microclimate-dev2ops/nodeExpressTemplate"
 components:
   - alias: codewind-sidecar
     type: chePlugin
