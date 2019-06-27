@@ -3,10 +3,10 @@ apiVersion: 1.0.0
 metadata:
   name: nodeExpressTemplate
 projects:
-  - name: nodeproject
-    source:
-      type: git
-      location: "https://github.com/microclimate-dev2ops/nodeExpressTemplate"
+  - source:
+    type: git
+    language: nodejs
+    location: "https://github.com/microclimate-dev2ops/nodeExpressTemplate"
 components:
   - alias: codewind-sidecar
     type: chePlugin
