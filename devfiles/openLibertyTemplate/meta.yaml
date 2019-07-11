@@ -1,0 +1,7 @@
+displayName: Open Liberty template
+description: Template for building an Open Liberty microservice in Java
+tags: ["Java", "Maven",]
+globalMemoryLimit: 2674Mi
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+projectType: "docker"
+language: "java"
