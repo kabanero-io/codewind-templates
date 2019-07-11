@@ -32,7 +32,7 @@
   "links": {"self":"/devfiles/nodeExpressTemplate/devfile.yaml" }
 }
 ,{
-  "displayName":"Swift microcservice template",
+  "displayName":"Swift microservice template",
   "description":"Template for building a Swift microservice",
   "language":"swift",
   "projectType":"swift",
@@ -54,5 +54,13 @@
   "projectType":"docker",
   "location":"https://github.com/microclimate-dev2ops/lagomJavaTemplate",
   "links": {"self":"/devfiles/lagomJavaTemplate/devfile.yaml" }
+}
+,{
+  "displayName":"Open Liberty template",
+  "description":"Template for building an Open Liberty microservice in Java",
+  "language":"java",
+  "projectType":"docker",
+  "location":"https://github.com/microclimate-dev2ops/openLibertyTemplate",
+  "links": {"self":"/devfiles/openLibertyTemplate/devfile.yaml" }
 }
 ]
