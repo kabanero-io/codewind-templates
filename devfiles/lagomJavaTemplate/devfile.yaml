@@ -3,10 +3,10 @@ apiVersion: 1.0.0
 metadata:
   name: lagomJavaTemplate
 projects:
-  - source:
-    type: git
-    language: java
-    location: "https://github.com/microclimate-dev2ops/lagomJavaTemplate"
+  - name: lagomproject
+    source:
+      type: git
+      location: "https://github.com/microclimate-dev2ops/lagomJavaTemplate"
 components:
   - alias: codewind-sidecar
     type: chePlugin
