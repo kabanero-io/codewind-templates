@@ -49,7 +49,7 @@ function buildIndex() {
         for field in "${metaInfoFields2[@]}"
         do
            # String value contains quotes, e.g. "str"
-            projects="$(yq r -j "${devfileArray[$count]}" "projects[0].location")"
+            projects="$(yq r -j "${devfileArray[$count]}" "projects[0].source.location")"
             #location="$(yq r -j "$projects" "location")"
            echo "  \"location\":$projects,"
         done
