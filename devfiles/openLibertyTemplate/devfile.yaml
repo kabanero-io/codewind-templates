@@ -3,10 +3,10 @@ apiVersion: 1.0.0
 metadata:
   name: openLibertyTemplate
 projects:
-  - source:
-    type: git
-    language: java
-    location: "https://github.com/microclimate-dev2ops/openLibertyTemplate"
+  - name: libertyproject
+    source:
+      type: git
+      location: "https://github.com/microclimate-dev2ops/openLibertyTemplate"
 components:
   - alias: codewind-sidecar
     type: chePlugin

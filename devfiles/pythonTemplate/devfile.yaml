@@ -3,10 +3,10 @@ apiVersion: 1.0.0
 metadata:
   name: Python Template
 projects:
-  - source:
-    type: git
-    language: python
-    location: "https://github.com/microclimate-dev2ops/SVTPythonTemplate"
+  - name: pythonproject
+    source:
+      type: git
+      location: "https://github.com/microclimate-dev2ops/SVTPythonTemplate"
 components:
   - alias: codewind-sidecar
     type: chePlugin
