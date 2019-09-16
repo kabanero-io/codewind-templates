@@ -1,22 +1,22 @@
 [
 {
-  "displayName":"Java MicroProfile template",
-  "description":"Cloud Microservice Starter for Java - MicroProfile / Java EE",
+  "displayName":"WebSphere Liberty MicroProfile®",
+  "description":"Eclipse MicroProfile® on Websphere Liberty",
   "language":"java",
   "projectType":"liberty",
   "location":"https://github.com/microclimate-dev2ops/javaMicroProfileTemplate",
   "links": {"self":"/devfiles/javaMicroProfileTemplate/devfile.yaml" }
 }
 ,{
-  "displayName":"Spring template",
-  "description":"Template for building a Spring microservice",
+  "displayName":"Spring Boot®",
+  "description":"Spring Boot® using IBM Java",
   "language":"java",
   "projectType":"spring",
   "location":"https://github.com/microclimate-dev2ops/springJavaTemplate",
   "links": {"self":"/devfiles/springJavaTemplate/devfile.yaml" }
 }
 ,{
-  "displayName":"Python template",
+  "displayName":"Python",
   "description":"HelloWorld microservice written in python",
   "language":"python",
   "projectType":"docker",
@@ -24,7 +24,7 @@
   "links": {"self":"/devfiles/pythonTemplate/devfile.yaml" }
 }
 ,{
-  "displayName":"Node.js template",
+  "displayName":"Node.js Express",
   "description":"Cloud-ready Node.js Express sample application",
   "language":"nodejs",
   "projectType":"nodejs",
@@ -32,15 +32,15 @@
   "links": {"self":"/devfiles/nodeExpressTemplate/devfile.yaml" }
 }
 ,{
-  "displayName":"Swift microservice template",
-  "description":"Template for building a Swift microservice",
+  "displayName":"Swift",
+  "description":"Sample for building a Swift microservice",
   "language":"swift",
   "projectType":"swift",
   "location":"https://github.com/microclimate-dev2ops/swiftTemplate",
   "links": {"self":"/devfiles/swiftTemplate/devfile.yaml" }
 }
 ,{
-  "displayName":"Go template",
+  "displayName":"Go",
   "description":"Sample microservice for simple go app",
   "language":"go",
   "projectType":"docker",
@@ -48,15 +48,15 @@
   "links": {"self":"/devfiles/goTemplate/devfile.yaml" }
 }
 ,{
-  "displayName":"Java Lagom template",
-  "description":"Template for building Lagom Reactive microservice in Java",
+  "displayName":"Lagom Java",
+  "description":"Sample for building Lagom Reactive microservice in Java",
   "language":"java",
   "projectType":"docker",
   "location":"https://github.com/microclimate-dev2ops/lagomJavaTemplate",
   "links": {"self":"/devfiles/lagomJavaTemplate/devfile.yaml" }
 }
 ,{
-  "displayName":"Open Liberty template",
+  "displayName":"Open Liberty",
   "description":"Template for building an Open Liberty microservice in Java",
   "language":"java",
   "projectType":"docker",
