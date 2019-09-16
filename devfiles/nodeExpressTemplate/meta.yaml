@@ -1,4 +1,4 @@
-displayName: Node.js template
+displayName: Node.js Express
 description: Cloud-ready Node.js Express sample application
 tags: ["Nodejs"]
 globalMemoryLimit: 2674Mi

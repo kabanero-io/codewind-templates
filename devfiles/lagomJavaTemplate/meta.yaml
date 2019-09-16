@@ -1,5 +1,5 @@
-displayName: Java Lagom template
-description: Template for building Lagom Reactive microservice in Java
+displayName: Lagom Java
+description: Sample for building Lagom Reactive microservice in Java
 tags: ["Java", "Maven",]
 globalMemoryLimit: 2674Mi
 icon: https://www.eclipse.org/che/images/logo-eclipseche.svg

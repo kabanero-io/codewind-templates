@@ -1,5 +1,5 @@
-displayName: Java MicroProfile template
-description: Cloud Microservice Starter for Java - MicroProfile / Java EE
+displayName: WebSphere Liberty MicroProfile® 
+description: Eclipse MicroProfile® on Websphere Liberty
 tags: ["Java", "Maven",]
 globalMemoryLimit: 2674Mi
 icon: https://www.eclipse.org/che/images/logo-eclipseche.svg

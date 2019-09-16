@@ -1,4 +1,4 @@
-displayName: Open Liberty template
+displayName: Open Liberty
 description: Template for building an Open Liberty microservice in Java
 tags: ["Java", "Maven",]
 globalMemoryLimit: 2674Mi

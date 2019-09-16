@@ -1,4 +1,4 @@
-displayName: Go template
+displayName: Go
 description: Sample microservice for simple go app
 tags: ["go", "docker"]
 globalMemoryLimit: 2674Mi
