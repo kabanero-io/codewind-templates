@@ -26,7 +26,7 @@
 ,{
   "displayName":"Node.js Express",
   "description":"Cloud-ready Node.js Express sample application",
-  "language":"nodejs",
+  "language":"javascript",
   "projectType":"nodejs",
   "location":"https://github.com/microclimate-dev2ops/nodeExpressTemplate",
   "links": {"self":"/devfiles/nodeExpressTemplate/devfile.yaml" }
